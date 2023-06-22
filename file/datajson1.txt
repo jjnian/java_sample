@@ -1,0 +1,1 @@
+{"source":{"file16":{"path":"mnist/train_16.png"}},"data": {"source": "$ref.source.file16.path"}, "label": {"results": [{"data": "$ref.source.file16.path", "markTitle": "IMAGECLASSIFICATION"}]}}
