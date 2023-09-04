@@ -6,7 +6,7 @@ import java.util.LinkedList;
 /**
  *
  */
-public class TEST {
+public class MemoryDemo {
 
 	public static void main(String[] args) {
 		MemoryMXBean memoryMXBean = ManagementFactory.getMemoryMXBean();
