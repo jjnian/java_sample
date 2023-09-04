@@ -5,7 +5,6 @@ import java.nio.ByteBuffer;
 
 public class ByteBufferDemo {
     public static void main(String[] args) {
-
         ByteBuffer byteBuffer = ByteBuffer.allocate(10);
         System.out.println(byteBuffer.position());
         System.out.println(byteBuffer.limit());
@@ -27,7 +26,5 @@ public class ByteBufferDemo {
         System.out.println(byteBuffer.position());
         System.out.println(byteBuffer.limit());
         System.out.println("-----------------------");
-
-
     }
 }
